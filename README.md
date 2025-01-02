@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error related to late binding and how to mitigate it using robust error handling. Late binding, while convenient, can lead to runtime errors if the object or method being called is not available.  The example shows how to improve code robustness.
